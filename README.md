@@ -18,3 +18,15 @@ Built a simple Linear Regression model in Google Colab to predict exam score
 - **Dataset:** study_hours_data.csv  
 - **Deliverable:** Task2_Predictive_Analysis.ipynb  
 - **Insight:** The model achieved a high R², accurately predicting scores based on study time.
+## Task 3 – Dashboard Development
+
+Built a dashboard-style visualization in Google Colab using Plotly to analyze the relationship between study hours and exam scores.
+
+**What the dashboard shows**
+- Scatter plot of student performance (each point = one data record)
+- Color-coded scores for quick comparison
+- A trend line to highlight the overall relationship between study time and performance
+- KPI summary (Average, Minimum, Maximum score) displayed on the dashboard for quick insights
+
+**Key insight**
+- The dashboard clearly shows that higher study hours generally correspond to higher exam scores, making it useful for quick performance analysis and decision-making.
